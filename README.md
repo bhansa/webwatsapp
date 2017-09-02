@@ -1,2 +1,2 @@
 # webwhatsapp
-Contacts downloader from web watsapp
+Contacts downloader from web whatsapp
